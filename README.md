@@ -37,8 +37,13 @@ Deploy a static website using  Azure Storage.
 - Now, upload your website's content to the storage account.
 - In the left-hand menu of your storage account, under "Data storage", select "$web".
 - Click the "Upload" button.
+![image alt](images/uploadFiles1.png)
+
 - Select all the files and folders from your local website directory and upload them.
-- After the upload is complete, you can visit the primary endpoint URL you received in the previous step to see your website live!
+![image alt](images/uploadFiles2.png)
+
+After the upload is complete, you can visit the primary endpoint URL you received in the previous step to see your website live!
+  
 
 ***TROUBLESHOOTING***
 If you come across an error like this:
