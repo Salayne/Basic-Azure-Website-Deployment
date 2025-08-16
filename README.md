@@ -2,7 +2,8 @@
 Deploy a static website using  Azure Storage.
 ![image alt](images/websiteIsLive.png)
 ## STEP 1: Prepare Your Website Files
-- First, make sure you have all the files for your static website ready. 
+- First, make sure you have all the files for your static website ready.
+- Or you can use these sample files -->  [Sample Files](website)
 - This typically includes an index.html file, along with any CSS, JavaScript, and image files. 
 - Organize these files into a single folder on your local machine.  
 
