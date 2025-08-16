@@ -56,5 +56,10 @@ If you come across an error like this:
 **This is not recommended for sensitive data.**
 - At the Storage Account Level: In the Azure portal, navigate to your storage account, go to Settings > Configuration, and set "Allow Blob anonymous access" to Enabled. 
 - Note that this setting overrides all individual container settings and allows anonymous access to any container configured for public access.
+![image alt](images/allowBlob.png)
+
 - At the Container Level: Once public access is allowed at the storage account level, you can set the public access level for individual containers.
+![image alt](images/changeAccessLevel.png)
+
 - In the Azure portal, navigate to the container and change its public access level to "Blob" (anonymous read access for blobs only) or "Container" (anonymous read access for the container and its blobs).
+- ![image alt](images/toBlob.png)
