@@ -19,7 +19,11 @@ Deploy a static website using  Azure Storage.
 - Region: Select a region close to your users.
 - Performance: Choose Standard.
 - Redundancy: Choose Locally-redundant storage (LRS) for a simple project.
+![image alt](images/createAstorageAccount1.png)
 - Click "Review + create" and then "Create".
+![image alt](images/deploymentComplete.png)
+
+
 
 ## STEP 3: Enable Static Website Hosting
 -. Once the storage account is created, you need to enable the static website feature.
