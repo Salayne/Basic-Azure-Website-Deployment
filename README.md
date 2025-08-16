@@ -23,14 +23,13 @@ Deploy a static website using  Azure Storage.
 - Click "Review + create" and then "Create".
 
 
-
-
 ## STEP 3: Enable Static Website Hosting
 -. Once the storage account is created, you need to enable the static website feature.
 - Navigate to your new storage account.
 - In the left-hand menu, under "Data management", select "Static website".
 - Click "Enabled".
 - Set the Index document name to index.html and the Error document path to 404.html (or a file of your choice).
+![image alt](images/enableStaticWebsite.png)
 - Click "Save". Azure will now provide you with a primary endpoint URL for your website.
 
 ## STEP 4: Upload Your Website Files
